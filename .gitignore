@@ -1,0 +1,14 @@
+
+.metadata/
+**/target/
+**/.settings/
+**/.classpath
+**/.project
+**/.factorypath
+**/.recommenders/
+**/bin/
+**/build/
+**/node_modules/
+**/.env
+**/.env.*
+**/*.log
